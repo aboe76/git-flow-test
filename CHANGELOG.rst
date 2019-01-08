@@ -4,6 +4,7 @@ Changelog
 
 (unreleased)
 ------------
+- Update changelog. [Niels Abspoel]
 - Merge tag 'v0.0.2' into develop. [Niels Abspoel]
 
   0.0.2
