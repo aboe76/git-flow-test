@@ -2,8 +2,10 @@ Changelog
 =========
 
 
-(unreleased)
-------------
+v0.1.0 (2020-05-14)
+-------------------
+- Add feature. [Niels Abspoel]
+- Update changelog. [Niels Abspoel]
 - Merge tag 'v0.0.3' into develop. [Niels Abspoel]
 
   0.0.3
